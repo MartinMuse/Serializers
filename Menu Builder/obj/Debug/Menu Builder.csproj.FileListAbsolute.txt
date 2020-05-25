@@ -1,0 +1,29 @@
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Menu Builder.exe.config
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Menu Builder.exe
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Menu Builder.pdb
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csprojAssemblyReference.cache
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu_Builder.Properties.Resources.resources
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csproj.GenerateResource.cache
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csproj.CoreCompileInputs.cache
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.exe
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.pdb
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu_Builder.MenuBuilder_form.resources
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Buffers.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Memory.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Numerics.Vectors.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Text.Encodings.Web.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Text.Json.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.ValueTuple.dll
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Buffers.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Memory.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Numerics.Vectors.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Text.Encodings.Web.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Text.Json.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4sem\oop\Menu Builder\Menu Builder\bin\Debug\System.ValueTuple.xml
+D:\4sem\oop\Menu Builder\Menu Builder\obj\Debug\Menu Builder.csproj.CopyComplete
